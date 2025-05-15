@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @balaji-shetty
-- 👀 I’m interested in helping people to achieve their dream life in physical, mental, emotional and social aspect with the help of knowledge, technology and daily action plans
-- 🌱 I’m currently learning Django in detail, digital marketting
-- 💞️ I’m looking to collaborate on helping each other to grow
-- 📫 How to reach me . Whatsapp 7276300495
+🚀 AI Automation | Custom MIS | WhatsApp Chatbots – Expert Solutions from India 🇮🇳
+
+Welcome to my GitHub! I'm a GHL Certified Expert and Python Django Developer with 24+ years of teaching experience and hands-on success in building:
+
+    🤖 AI Automation workflows
+
+    🧠 Custom WhatsApp Chatbots (integrated with any tech stack)
+
+    📊 Tailor-made MIS systems (e.g., SGGS Exam Result Management – 3-year implementation)
+
+    🛠️ Scalable Web Applications for government, education, and enterprises
+
+I've worked closely with District Collectors, SPs, and institutions to deliver real-world, high-impact solutions.
+📩 Let’s Build Together!
+
+Interested in learning or building:
+
+    Custom AI workflows?
+
+    Government/enterprise-grade MIS?
+
+    Smart chatbot systems?
+
+📬 Message me to collaborate or learn hands-on!
+Together, we can automate, scale, and innovate. 🚀
+
 
 <!---
 balaji-shetty/balaji-shetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
